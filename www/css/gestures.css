@@ -1,0 +1,22 @@
+body{
+  background-color: #8eadc5;    /* Color de fondo inicial: gris azulado */
+}
+
+body.claro{
+  background-color: #8de1bd;    /* Color original: verde claro*/
+}
+
+body.oscuro{
+  background-color: #577a76;    /* Color original: gris oscuro*/
+}
+
+
+button{
+  background-color: #7fba67;
+  color: #ffffff;
+  border: none;
+  width: 100%;
+  padding: 30px;
+  font-size: 1em;
+  margin-top: 10px;
+}
