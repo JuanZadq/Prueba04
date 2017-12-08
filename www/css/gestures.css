@@ -1,43 +1,15 @@
+
+
 body{
   background-color: #8eadc5;    /* Color de fondo inicial: gris azulado */
 }
 
 body.claro{
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 2a5e7a8... Eliminar todo
-  background-color: #8de1bd;    /* Color original: verde claro */
-}
-
-body.oscuro{
-  background-color: #577a76;    /* Color original: gris oscuro */
-=======
   background-color: #ababff;    /* Color azul claro */
 }
 
 body.oscuro{
   background-color: #0000ff;    /* Color azul */
->>>>>>> parent of 26bff2b... 3º Tonos de verde
-<<<<<<< HEAD
-=======
-  background-color: #8de1bd;    /* Color original: verde claro*/
-}
-
-body.oscuro{
-  background-color: #577a76;    /* Color original: gris oscuro*/
->>>>>>> parent of ee5ee9c... 1.- Colores iniciales
-=======
-  background-color: #ababff;    /* Color azul claro */
-}
-
-body.oscuro{
-  background-color: #0000ff;    /* Color azul */
->>>>>>> parent of 26bff2b... 3º Tonos de verde
-=======
->>>>>>> parent of 2a5e7a8... Eliminar todo
 }
 
 
