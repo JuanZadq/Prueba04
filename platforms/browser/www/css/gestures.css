@@ -3,11 +3,11 @@ body{
 }
 
 body.claro{
-  background-color: #ababff;    /* Color azul claro */
+  background-color: #8de1bd;    /* Color original: verde claro */
 }
 
 body.oscuro{
-  background-color: #0000ff;    /* Color azul */
+  background-color: #577a76;    /* Color original: gris oscuro */
 }
 
 
