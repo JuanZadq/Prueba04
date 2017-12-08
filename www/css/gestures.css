@@ -5,6 +5,7 @@ body{
 body.claro{
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: #8de1bd;    /* Color original: verde claro */
 }
 
@@ -24,6 +25,13 @@ body.oscuro{
 body.oscuro{
   background-color: #577a76;    /* Color original: gris oscuro*/
 >>>>>>> parent of ee5ee9c... 1.- Colores iniciales
+=======
+  background-color: #ababff;    /* Color azul claro */
+}
+
+body.oscuro{
+  background-color: #0000ff;    /* Color azul */
+>>>>>>> parent of 26bff2b... 3º Tonos de verde
 }
 
 
